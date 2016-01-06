@@ -1,0 +1,20 @@
+I's definately a lot easier
+ to find the differences between versions using a tool
+  instead of just by looking at it.
+
+Ofek Plot
+
+
+How could having easy access to the entire history of a file
+ make you a more efficient programmer in the long term?
+
+ I shall have to wait and see.
+
+ Ofek Plot
+
+ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+ Pros: I do it on a need-to basis. 
+ Cons: I might not commit at the right times.
+
+ Ofek Plot
