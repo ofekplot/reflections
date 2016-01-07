@@ -1,4 +1,15 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository 
+rather than keeping all your work local?
 
 When sharing with all my bodies and pals
 Ofek Plot.
+
+
+
+Why might you want to always pull changes manually
+rather than having Git automatically stay up-to-date with your remote repository?
+
+It's called "version CONTROL" for a reason' ainit?
+Ofek Plot.
+
+

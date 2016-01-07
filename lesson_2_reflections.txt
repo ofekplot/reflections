@@ -7,3 +7,9 @@ Ofek Plot
 come on...
 
 Ofek Plot
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I don't know...
+
+Ofek Plot
