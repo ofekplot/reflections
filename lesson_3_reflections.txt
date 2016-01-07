@@ -12,4 +12,10 @@ rather than having Git automatically stay up-to-date with your remote repository
 It's called "version CONTROL" for a reason' ainit?
 Ofek Plot.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+Forks seperate a new branch from an existing one.
+Clones take a copy of an existing repositry.
+Branches are logical alternative advancements to the current chain of commits.
+
+Ofek Plot.
